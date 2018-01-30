@@ -1,4 +1,5 @@
 # Kafka, Zookeeper and Kafka 7 proxy
+MAINTAINER Dave Jones "dave.jones9@coop.co.uk"
 FROM spotify/kafka
 
 ADD kafka-0.7.2.jar kafka-0.7.2.jar
