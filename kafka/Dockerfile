@@ -1,5 +1,5 @@
 # Kafka and Zookeeper
-
+MAINTAINER Dave Jones "dave.jones9@coop.co.uk"
 FROM java:openjdk-8-jre
 
 ENV DEBIAN_FRONTEND noninteractive
